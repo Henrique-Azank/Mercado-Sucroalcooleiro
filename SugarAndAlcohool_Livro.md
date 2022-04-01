@@ -7,6 +7,8 @@
  A cana de açúcar constitui em um dos principais produtos agrícolas do Brasil. O país é o ***maior produtor mundial e o maior exportador da mesma***. A partir da industrialização da cana, obtém-se várias tipologias de **Açúcar e Etanol**. O Brasil também está entre os líderes mundiais de ***produção e exportação de biocombustíveis*** em função da produção do etanol. 
 
  O uso de Etanol combustível teve como principal motivação a Crise do Petróleo na [década de 70](https://www.infopedia.pt/apoio/artigos/$crise-mundial-dos-anos-70), sendo que seu consumo tem sido alavancado pela preucupação com o meio ambiente e pela não-renovabilidade de outros tipos de combustíveis. 
+ 
+ &nbsp;
 
 - <h3> Capítulo 1: Introdução </h3>
 ---
@@ -24,6 +26,8 @@ Atualmente o panorama mudou. O etanol hoje é considerado mais do que ecologicam
 - Combustível com potencial para ser exportado para todo o mundo. 
 
 Atualmente o Brasil e os Estados Unidos da América **produzem e consomem** cerca de 90% do etanol mundial. Dos 120 países que cultivam cana-de-açúcar em escala industrial, apenas 10 produzem etanol.  
+
+&nbsp;
 
 - <h3> Capítulo 2: Histórico da Cana-de-Açúcar no Brasil</h3>
 ---
